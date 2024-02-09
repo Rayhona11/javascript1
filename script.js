@@ -22,3 +22,6 @@ offButton.addEventListener("click",()=>{
     head1.classList.remove("red")
     head1.innerHTML="Lamp is off"
 })
+
+
+
