@@ -15,7 +15,6 @@ onButton.addEventListener("click",()=>{
 
 
 offButton.addEventListener("click",()=>{
-   
     let imgEl = document.querySelector(".image");
     imgEl.src ="/assets/lamp-1.jpg";
     let head1 = document.querySelector(".h1");
